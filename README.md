@@ -4,7 +4,7 @@ A deep learning based on MobileNet architecture to detect whether a person is we
 
 
 <p align="center">
-    <img src="./assets/example.gif" width=500/>
+    <img src="./assets/example1.gif" width=500/>
 <p/>
 
 
