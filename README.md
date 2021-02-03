@@ -10,7 +10,7 @@ A deep learning based on MobileNet architecture to detect whether a person is we
 
 ## Quick Start and Guide
 
-Visit the [Medium page](https://link.medium.com/060qtr3C43).
+Visit the [Medium page](https://fortes-arthur.medium.com/building-a-personalized-face-mask-detection-using-opencv-and-deep-learning-4aae008c95a0).
 
 
 ## Dataset and Weights
